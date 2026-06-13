@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "releaseDate": "2026-05-24",
+  "version": "1.0.4",
+  "releaseDate": "2026-06-13",
   "downloadUrl": "",
-  "notes": "Initial release of TDS Pro v1.0.0",
+  "notes": "CDeTDS v1.0.4 - Income-tax Act 2025 transition (trigger-date rule, FY-aware return forms 138/140/143, mixing validation), payment-code groundwork (off by default), data-safety hardening, and UI fixes.",
   "fvuLatestVersion": "9.4",
   "fvuDownloadUrl": ""
 }
