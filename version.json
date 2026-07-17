@@ -1,8 +1,8 @@
 {
   "version": "1.0.4",
-  "releaseDate": "2026-06-13",
-  "downloadUrl": "",
-  "notes": "CDeTDS v1.0.4 - Income-tax Act 2025 transition (trigger-date rule, FY-aware return forms 138/140/143, mixing validation), payment-code groundwork (off by default), data-safety hardening, and UI fixes.",
-  "fvuLatestVersion": "9.5",
+  "releaseDate": "2026-07-17",
+  "downloadUrl": "https://github.com/arjun-panda/cdetds-releases/releases/download/v1.0.4/CDeTDS_Setup_v1.0.4.exe",
+  "notes": "CDeTDS v1.0.4 - Income-tax Act 2025 transition (Forms 138/140/143 with 4-digit payment codes, validated on Protean FVU 1.1), automatic CSI download, auto-login return upload, paper-return snapshot on every validated run, and reliability fixes.",
+  "fvuLatestVersion": "9.4",
   "fvuDownloadUrl": "https://tinpan.proteantech.in/downloads/e-tds/eTDS-download-regular.html"
 }
